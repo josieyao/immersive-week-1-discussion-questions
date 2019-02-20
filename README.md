@@ -14,6 +14,7 @@ def greet(name)
 end
 greet("Steven") #=> ?
 ```
+binding.pry
 
 2 . What does this method return?
 
